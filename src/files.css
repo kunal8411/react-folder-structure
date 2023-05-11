@@ -1,0 +1,23 @@
+.tree-node {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.parent-node {
+  font-weight: bold;
+}
+
+.folder-icon {
+  margin-right: 5px;
+  font-size: 18px;
+}
+
+.folder-name {
+  margin-right: 5px;
+}
+
+.children-container {
+  margin-left: 10px;
+}
